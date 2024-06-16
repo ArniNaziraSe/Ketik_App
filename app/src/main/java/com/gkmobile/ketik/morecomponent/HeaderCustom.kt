@@ -55,7 +55,7 @@ fun HeaderCustom(
 
 @Preview(showBackground = true)
 @Composable
-private fun Preview() {
+private fun HeaderPreview() {
     HeaderCustom(
         textdepan = "Example",
         onClickdepan = {},
